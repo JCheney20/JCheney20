@@ -6,7 +6,7 @@
   
   # Hi there, I'm Justin Cheney 👋
   
-  ### Network Engineer | HPC Enthusiast | Julia Developer | RL Researcher
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Network+Engineer;HPC+Enthusiast;Julia+Developer;DRL+Researcher)](https://git.io/typing-svg)
   
 </div>
 
@@ -164,8 +164,6 @@ I'm passionate about pushing the boundaries of computational performance and int
 <div align="center">
 
 ### 💡 "High performance isn't just about speed, it's about efficiency, scalability, and elegance."
-
-**Thanks for visiting!** ⭐
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
