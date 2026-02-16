@@ -77,14 +77,6 @@ I'm passionate about pushing the boundaries of computational performance and int
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=dark&hide_border=true)
 
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-
-</div>
 
 ---
 <div align="center">
