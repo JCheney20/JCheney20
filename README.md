@@ -180,7 +180,7 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 ### ⚡ Fun Facts About Me
 
-💻 I code best with a cup of coffee ☕ | 🎮 When not coding, you'll find me gaming | 🌍 Love exploring new technologies
+💻 I code best with a cup of coffee ☕ | ♟️ When not coding, you'll find me playing chess | 🌍 Love exploring new technologies
 
 <!-- Add another GIF here for personality -->
 <!-- <img src="YOUR_FUN_GIF_URL" alt="Fun GIF" width="250"/> -->
