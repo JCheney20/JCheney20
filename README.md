@@ -245,7 +245,7 @@ Working in the HPC department, contributing to the maintenance, optimization, an
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=dark&hide_border=true)
 
 </div>
 
