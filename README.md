@@ -111,23 +111,22 @@ I'm passionate about pushing the boundaries of computational performance and int
       <div align="center">
         <!-- <img src="PROJECT_DEMO_GIF_URL" width="400" alt="Project Demo"/> -->
         <p>
-          <a href="https://github.com/JCheney20/project1" target="_blank">
+          <a href="https://github.com/JCheney20/Just-in-Check" target="_blank">
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
           </a>
         </p>
-        <p><strong>Julia, HPC, RL</strong> - Brief description of your project focused on HPC and RL</p>
+        <p><strong>C, Adversarial Algorithms</strong> - Just-in-Check is a Chess Engine written in C following the video tutorial created by bluefeversoft. It was an experience to learn how to use various aspects of C, better my understanding of Artificial Intelligence as I create heuristics to calculate best moves as well as getting to apply what has been learnt during my third year of university.</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Project Name 2</h3>
       <div align="center">
-        <!-- <img src="PROJECT_DEMO_GIF_URL" width="400" alt="Project Demo"/> -->
         <p>
-          <a href="https://github.com/JCheney20/project2" target="_blank">
+          <a href="https://github.com/JCheney20/ZooInsight" target="_blank">
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
           </a>
         </p>
-        <p><strong>Python, TensorFlow</strong> - Brief description of your second project</p>
+        <p><strong>Java, Databases</strong> - Small Database project focused on Zoo management</p>
       </div>
     </td>
   </tr>
