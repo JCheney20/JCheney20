@@ -74,26 +74,8 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 ## 📊 GitHub Statistics
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCheney20&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCheney20&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=dark&hide_border=true)
-
-<!-- Activity Graph -->
-[![Justin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JCheney20&theme=dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JCheney20/JCheney20/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JCheney20/JCheney20/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JCheney20/JCheney20/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
@@ -101,12 +83,10 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JCheney20&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
-![JCheney20 trophies](https://github-profile-trophy.vercel.app/?username=JCheney20&theme=flat&row=3&column=2&no-bg=true)
 <div align="center">
 
 ## 📫 Connect With Me
