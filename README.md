@@ -4,7 +4,7 @@
   <!-- Add your header image here -->
   <!-- ![Header](URL_TO_YOUR_HEADER_IMAGE) -->
   
-  # Hi there, I'm [Justin Cheney] 👋
+  # Hi there, I'm Justin Cheney 👋
   
   ### Network Engineer | HPC Enthusiast | Julia Developer | RL Researcher
   
@@ -77,7 +77,7 @@ I'm passionate about pushing the boundaries of computational performance and int
 **[Cape Town, South Africa]**
 
 ### 💼 Current Studies
-**BSc: Computer Science (Hons.) @ [University of the Western Cape]**
+**BSc: Computer Science (Hons.) @ University of the Western Cape**
 
 ---
 
