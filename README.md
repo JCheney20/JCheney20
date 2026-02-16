@@ -7,55 +7,62 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=698AF7&center=true&vCenter=true&width=435&lines=Network+Engineer+|+HPC+Enthusiast;Julia+Developer+|+DRL+Researcher)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-cheney-b2b496204/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4323819@myuwc.ac.za)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCheney20)
+![Profile Views](https://komarev.com/ghpvc/?username=JCheney20&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
-<div align="center">
+## 🙋‍♂️ Personal Introduction
 
-## 🚀 About Me
+Hello! I'm **Justin Cheney**, a passionate Computer Science Honours student at the University of the Western Cape, Cape Town, South Africa. My career goal is to advance the field of **High-Performance Computing (HPC)** by developing intelligent systems that optimize resource allocation and job scheduling through **Reinforcement Learning** and **Julia programming**.
 
-</div>
-
-I'm passionate about pushing the boundaries of computational performance and intelligent systems. My interests lie at the intersection of:
+I'm particularly interested in pushing the boundaries of computational performance and intelligent systems. My work focuses on the intersection of:
 
 - **🖥️ High-Performance Computing (HPC)**: Optimizing algorithms and leveraging parallel computing to solve complex computational problems at scale
 - **💎 Julia Programming**: Harnessing the power of Julia for scientific computing, combining the ease of Python with the speed of C
-- **🤖 Reinforcement Learning**: Developing intelligent agents that learn through interaction, with applications in optimization and Job Scheduling
-
-<!-- Add a GIF or image here to showcase your work -->
-<!-- <div align="center">
-  <img src="YOUR_GIF_URL" alt="Coding GIF" width="400"/>
-</div> -->
-
----
+- **🤖 Deep Reinforcement Learning**: Developing intelligent agents that learn through interaction, with applications in optimization and HPC job scheduling
 
 <div align="center">
-
-## 🔬 Current Focus
 
 </div>
 
-- 🌱 Exploring advanced parallel computing patterns in Julia
-- 🎯 Implementing state-of-the-art RL algorithms for HPC Job Scheduling
-- 💡 Optimizing neural network training on distributed systems
-- 📚 Contributing to open-source HPC and Julia ecosystem
+---
+
+## 🎓 Education
+
+<div align="left">
+
+### **BSc Computer Science (Honours)** 
+**University of the Western Cape** | *Cape Town, South Africa*  
+📅 *2026 - Present*
+
+### **BSc Computer Science**
+**University of the Western Cape** | *Cape Town, South Africa*  
+📅 *2023 - 2025*
+
+</div>
 
 ---
 
+## 🛠️ Skills & Interests
+
 <div align="center">
 
-## 🛠️ Technologies & Tools
+### Technical Skills
 
-### Languages
+#### Programming Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cmake,git,github,grafana,java,julia,lua,md,mysql,neovim,nix,prometheus,py,redhat&perline=8" />
+    <img src="https://skillicons.dev/icons?i=julia,py,c,bash,java,lua,r&perline=8" />
   </a>
 </p>
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 
 ![Flux.jl](https://img.shields.io/badge/Flux.jl-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -65,78 +72,182 @@ I'm passionate about pushing the boundaries of computational performance and int
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-0071C5?style=for-the-badge)
 
+#### Development Tools & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,neovim,cmake,mysql,prometheus,grafana,nix,redhat,md&perline=10" />
+  </a>
+</p>
+
+### Soft Skills
+
+<table align="center">
+  <tr>
+    <td align="center">💡 <strong>Problem Solving</strong></td>
+    <td align="center">🤝 <strong>Team Collaboration</strong></td>
+    <td align="center">📊 <strong>Research & Analysis</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <strong>Critical Thinking</strong></td>
+    <td align="center">📚 <strong>Self-Learning</strong></td>
+    <td align="center">⏱️ <strong>Time Management</strong></td>
+  </tr>
+  <tr>
+    <td align="center">📝 <strong>Technical Writing</strong></td>
+    <td align="center">🗣️ <strong>Communication</strong></td>
+    <td align="center">🔍 <strong>Attention to Detail</strong></td>
+  </tr>
+</table>
+
+### Academic & Professional Interests
+
 </div>
 
+- 🌱 Exploring advanced parallel computing patterns in Julia
+- 🎯 Implementing state-of-the-art Deep RL algorithms for HPC job scheduling
+- 💡 Optimizing neural network training on distributed systems
+- 📚 Contributing to open-source HPC and Julia ecosystem
+- 🔬 Resource allocation and optimization in high-performance computing environments
+- 🧠 Model-based reinforcement learning systems
+- ⚡ Performance optimization and benchmarking
+
 ---
+
+## 🚀 Projects & Competitions
 
 <div align="center">
-
-## 📊 GitHub Statistics
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=dark&hide_border=true)
-
----
-<div align="center">
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-cheney-b2b496204/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4323819@myuwc.ac.za)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCheney20)
-
-### 📍 Location
-**Cape Town, South Africa**
-
-### 💼 Current Studies
-**BSc: Computer Science (Hons.) @ University of the Western Cape**
-
----
-
-## 💭 Random Dev Quote
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
----
-
-## 🎯 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Just-in-Check</h3>
+      <h3 align="center">🔍 Just-in-Check</h3>
       <div align="center">
+        <!-- <img src="PROJECT_DEMO_GIF_URL" width="400" alt="Chess Engine Demo"/> -->
         <p>
           <a href="https://github.com/JCheney20/Just-in-Check" target="_blank">
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
           </a>
+          <a href="https://github.com/JCheney20/Just-in-Check" target="_blank">
+            <img src="https://img.shields.io/github/stars/JCheney20/Just-in-Check?style=for-the-badge"/>
+          </a>
         </p>
-        <p><strong>C, Adversarial Algorithms</strong> - Just-in-Check is a Chess Engine written in C following the video tutorial created by bluefeversoft. It was an experience to learn how to use various aspects of C, better my understanding of Artificial Intelligence as I create heuristics to calculate best moves as well as getting to apply what has been learnt during my third year of university.</p>
+        <p><strong>Technologies:</strong> C, Adversarial Algorithms</p>
+        <p><strong>Description:</strong> A chess engine written in C following bluefeversoft's tutorial. This project enhanced my understanding of AI heuristics for move calculation and applied advanced C programming techniques learned during my third year.</p>
+        <p><strong>Role:</strong> Solo Developer</p>
+        <p><strong>Outcome:</strong> Functional chess engine with AI opponent capabilities</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">ZooInsight</h3>
+      <h3 align="center">🦁 ZooInsight</h3>
       <div align="center">
+        <!-- <img src="PROJECT_DEMO_GIF_URL" width="400" alt="Zoo Database Demo"/> -->
         <p>
           <a href="https://github.com/JCheney20/ZooInsight" target="_blank">
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
           </a>
+          <a href="https://github.com/JCheney20/ZooInsight" target="_blank">
+            <img src="https://img.shields.io/github/stars/JCheney20/ZooInsight?style=for-the-badge"/>
+          </a>
         </p>
-        <p><strong>Java, Databases</strong> - Small Database project focused on Zoo management</p>
+        <p><strong>Technologies:</strong> Java, MySQL</p>
+        <p><strong>Description:</strong> A comprehensive database management system for zoo operations, including animal tracking, feeding schedules, and visitor management.</p>
+        <p><strong>Role:</strong> Database Designer & Developer</p>
+        <p><strong>Outcome:</strong> Efficient relational database system with GUI</p>
       </div>
     </td>
   </tr>
 </table>
 
+### 🏆 Competitions & Hackathons
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🥉 CSIR CHPC Student Cluster Competition 2024</h4>
+      <p><strong>Role:</strong> Team Lead</p>
+      <p><strong>Achievement:</strong> 3rd Place (National Round)</p>
+      <p><strong>Description:</strong> Led a team in building and optimizing a small HPC cluster over 5 intensive days. Responsible for fine-tuning cluster performance and running various synthetic and application-based benchmarks to demonstrate system capabilities.</p>
+      <p><strong>Skills Applied:</strong> HPC Architecture, Performance Benchmarking, Team Leadership, Cluster Optimization</p>
+    </td>
+    <td width="50%">
+      <h4>🎓 CSIR CHPC Student Cluster Competition 2025</h4>
+      <p><strong>Role:</strong> Lead Mentor</p>
+      <p><strong>Achievement:</strong> Mentored team to 4th Place (National Round)</p>
+      <p><strong>Description:</strong> Served as lead mentor, training students from preparation through to the national competition round. Personally mentored the 4th place team, with one team member being selected for the National Team - a testament to the quality of training and guidance provided.</p>
+      <p><strong>Skills Applied:</strong> Mentorship, Technical Training, HPC Education, Leadership Development</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
-## 📈 Contribution Stats
+## 📄 Publications
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=JCheney20&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+**No publications yet.**
+
+*Currently working on research in HPC job scheduling optimization using deep reinforcement learning. Stay tuned for upcoming papers!*
+
+</div>
+
+---
+
+## 🤝 Affiliations & Memberships
+
+<div align="left">
+
+### Professional Organizations
+
+- 💻 **Open Source Contributor** - Julia Community & HPC Ecosystem
+
+### University Clubs & Societies
+
+- 🎓 **IT Society** - (Member) University of the Western Cape
+- 📚 **HPC Society** - (Mentor) University of the Western Cape
+
+*Note: Update this section with your actual affiliations and memberships*
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCheney20&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📫 Contact Information
+
+<div align="center">
+
+### Let's Connect! 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-cheney-b2b496204/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4323819@myuwc.ac.za)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCheney20)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+### 📍 Location
+**Cape Town, South Africa** 🇿🇦
 
 </div>
 
@@ -148,16 +259,14 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 💻 I code best with a cup of coffee ☕ | ♟️ When not coding, you'll find me playing chess | 🌍 Love exploring new technologies
 
-<!-- Add another GIF here for personality -->
-<!-- <img src="YOUR_FUN_GIF_URL" alt="Fun GIF" width="250"/> -->
+---
 
-</div>
+### 💡 *"High performance isn't just about speed, it's about efficiency, scalability, and elegance."*
 
 ---
 
-<div align="center">
-
-### 💡 "High performance isn't just about speed, it's about efficiency, scalability, and elegance."
+**Thanks for visiting my profile!** ⭐  
+*Feel free to reach out if you want to collaborate on HPC, Julia, or RL projects!*
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
