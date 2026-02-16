@@ -49,7 +49,7 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=julia,bash,c,cmake,git,github,grafana,java,lua,md,mysql,neovim,nix,prometheus,py,redhat&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cmake,git,github,grafana,java,julia,lua,md,mysql,neovim,nix,prometheus,py,redhat&perline=8" />
   </a>
 </p>
 
