@@ -76,7 +76,6 @@ I'm passionate about pushing the boundaries of computational performance and int
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=dark&hide_border=true)
 
-
 ---
 <div align="center">
 
@@ -85,9 +84,6 @@ I'm passionate about pushing the boundaries of computational performance and int
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-cheney-b2b496204/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4323819@myuwc.ac.za)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCheney20)
-
-<!-- Add a fun GIF here -->
-<!-- <img src="YOUR_CODING_GIF_URL" alt="Coding" width="300"/> -->
 
 ### 📍 Location
 **Cape Town, South Africa**
@@ -99,7 +95,9 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 ## 💭 Random Dev Quote
 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
 
