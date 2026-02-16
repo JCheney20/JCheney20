@@ -75,16 +75,16 @@ I'm passionate about pushing the boundaries of computational performance and int
 ## 📊 GitHub Statistics
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCheney20&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCheney20&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 <!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCheney20&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCheney20&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=dark&hide_border=true)
 
 <!-- Activity Graph -->
-[![Justin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JCheney20&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Justin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JCheney20&theme=dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Contribution Snake -->
 <picture>
@@ -128,7 +128,7 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 ## 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
