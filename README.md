@@ -46,7 +46,7 @@ I'm passionate about pushing the boundaries of computational performance and int
 <div align="center">
   
   <!-- Replace 'yourusername' with your actual GitHub username -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?user=JCheney20&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?user=JCheney20&show_icons=true)
   
   <!-- Most Used Languages -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=JCheney20&layout=compact&theme=radical&hide_border=true)
