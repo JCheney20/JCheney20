@@ -103,13 +103,11 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 ## 🎯 Featured Projects
 
-<!-- Add your key projects here -->
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project Name 1</h3>
+      <h3 align="center">Just-in-Check</h3>
       <div align="center">
-        <!-- <img src="PROJECT_DEMO_GIF_URL" width="400" alt="Project Demo"/> -->
         <p>
           <a href="https://github.com/JCheney20/Just-in-Check" target="_blank">
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
@@ -119,7 +117,7 @@ I'm passionate about pushing the boundaries of computational performance and int
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Project Name 2</h3>
+      <h3 align="center">ZooInsight</h3>
       <div align="center">
         <p>
           <a href="https://github.com/JCheney20/ZooInsight" target="_blank">
