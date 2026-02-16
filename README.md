@@ -22,6 +22,15 @@ I'm passionate about pushing the boundaries of computational performance and int
 
 ---
 
+## 🔬 Current Focus
+
+- 🌱 Exploring advanced parallel computing patterns in Julia
+- 🎯 Implementing state-of-the-art RL algorithms for HPC Job Scheduling
+- 💡 Optimizing neural network training on distributed systems
+- 📚 Contributing to open-source HPC and Julia ecosystem
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
@@ -45,27 +54,16 @@ I'm passionate about pushing the boundaries of computational performance and int
 <!-- GitHub Stats -->
 <div align="center">
   
-  <!-- Replace 'yourusername' with your actual GitHub username -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?user=JCheney20&show_icons=true)
-  
   <!-- Most Used Languages -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=JCheney20&layout=compact&theme=radical&hide_border=true)
   
   <!-- GitHub Streak -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=dark&hide_border=true)
   
 </div>
 
 ---
 
-## 🔬 Current Focus
-
-- 🌱 Exploring advanced parallel computing patterns in Julia
-- 🎯 Implementing state-of-the-art RL algorithms for HPC Job Scheduling
-- 💡 Optimizing neural network training on distributed systems
-- 📚 Contributing to open-source HPC and Julia ecosystem
-
----
 
 ### Connect with Me
 
