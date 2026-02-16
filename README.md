@@ -5,7 +5,7 @@
   
 # Hi there, I'm Justin Cheney 👋
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=698AF7&center=true&vCenter=true&width=435&lines=Network+Engineer+|+HPC+Enthusiast;Julia+Developer+|+DRL+Researcher)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=698AF7&center=true&vCenter=true&width=500&lines=HPC/Network+Engineer+Intern+@+SANBI;Julia+Developer+|+DRL+Researcher;CS+Honours+Student+@+UWC)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-cheney-b2b496204/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4323819@myuwc.ac.za)
@@ -22,7 +22,7 @@
 
 ## 🙋‍♂️ Personal Introduction
 
-Hello! I'm **Justin Cheney**, a passionate Computer Science Honours student at the University of the Western Cape, Cape Town, South Africa. My career goal is to advance the field of **High-Performance Computing (HPC)** by developing intelligent systems that optimize resource allocation and job scheduling through **Reinforcement Learning** and **Julia programming**.
+Hello! I'm **Justin Cheney**, a Computer Science Honours student at the University of the Western Cape, Cape Town, South Africa, currently working as an **HPC/Network Engineer Intern** at the **South African National Bioinformatics Institute (SANBI)**. My career goal is to advance the field of **High-Performance Computing (HPC)** by developing intelligent systems that optimize resource allocation and job scheduling through **Reinforcement Learning** and **Julia programming**.
 
 I'm particularly interested in pushing the boundaries of computational performance and intelligent systems. My work focuses on the intersection of:
 
@@ -31,6 +31,30 @@ I'm particularly interested in pushing the boundaries of computational performan
 - **🤖 Deep Reinforcement Learning**: Developing intelligent agents that learn through interaction, with applications in optimization and HPC job scheduling
 
 <div align="center">
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<div align="left">
+
+### **HPC/Network Engineer Intern**
+**South African National Bioinformatics Institute (SANBI)** | *Cape Town, South Africa*  
+📅 *Present*
+
+Working in the HPC department, contributing to the maintenance, optimization, and operation of high-performance computing infrastructure supporting bioinformatics research across South Africa.
+
+**Key Responsibilities & Achievements:**
+- 🖥️ Managing and maintaining HPC cluster infrastructure for computational biology research
+- 🌐 Network administration and optimization for high-throughput data transfer
+- 📊 Performance monitoring and system optimization using tools like Prometheus and Grafana
+- 🔧 Supporting researchers with job scheduling, resource allocation, and computational workflow optimization
+- 🛠️ Troubleshooting and resolving technical issues in a production HPC environment
+- 📈 Contributing to infrastructure upgrades and capacity planning
+
+**Technologies Used:** Slurm, Linux (Ubuntu), Networking protocols, Monitoring tools, HPC optimization techniques
 
 </div>
 
@@ -246,7 +270,7 @@ I'm particularly interested in pushing the boundaries of computational performan
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-cheney-b2b496204/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4323819@myuwc.ac.za)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCheney20)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#) -->
 
 ### 📍 Location
 **Cape Town, South Africa** 🇿🇦
@@ -273,3 +297,4 @@ I'm particularly interested in pushing the boundaries of computational performan
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
