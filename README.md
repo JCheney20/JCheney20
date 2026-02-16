@@ -209,8 +209,6 @@ I'm particularly interested in pushing the boundaries of computational performan
 - 🎓 **IT Society** - (Member) University of the Western Cape
 - 📚 **HPC Society** - (Mentor) University of the Western Cape
 
-*Note: Update this section with your actual affiliations and memberships*
-
 </div>
 
 ---
@@ -219,7 +217,7 @@ I'm particularly interested in pushing the boundaries of computational performan
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCheney20&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=radical&hide_border=true)
 
 </div>
 
@@ -229,7 +227,7 @@ I'm particularly interested in pushing the boundaries of computational performan
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
