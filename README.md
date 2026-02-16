@@ -2,7 +2,7 @@
 <div align="center">
   # Hi there, I'm Justin Cheney 👋
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Network+Engineer;HPC+Enthusiast;Julia+Developer;DRL+Researcher)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Network+Engineer+|+HPC+Enthusiast;Julia+Developer+|+DRL+Researcher)](https://git.io/typing-svg)
   
 </div>
 
