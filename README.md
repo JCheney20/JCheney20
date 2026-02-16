@@ -3,7 +3,7 @@
   
 # Hi there, I'm Justin Cheney 👋
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=698AF7&center=true&vCenter=true&width=435&lines=Network+Engineer;HPC+Enthusiast;Julia+Developer;DRL+Researcher)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=698AF7&center=true&vCenter=true&width=435&lines=Network+Engineer+|+HPC+Enthusiast;Julia+Developer+|+DRL+Researcher)
 
 </div>
 
