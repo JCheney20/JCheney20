@@ -106,7 +106,7 @@ I'm passionate about pushing the boundaries of computational performance and int
 </div>
 
 ---
-
+![JCheney20 trophies](https://github-profile-trophy.vercel.app/?username=JCheney20&theme=flat&row=3&column=2&no-bg=true)
 <div align="center">
 
 ## 📫 Connect With Me
