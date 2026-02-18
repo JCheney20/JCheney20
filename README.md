@@ -245,7 +245,7 @@ Working in the HPC department, contributing to the maintenance, optimization, an
 
 <div align="center">
 
-[![JCheney20's github activity graph](https://https://github-readme-activity-graph.cyclic.app/graph?username=JCheney200&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JCheney20)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
