@@ -5,7 +5,7 @@
   
 # Hi there, I'm Justin Cheney 👋
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=698AF7&center=true&vCenter=true&width=500&lines=HPC/Network+Engineer+Intern+@+SANBI;Julia+Developer+|+DRL+Researcher;CS+Honours+Student+@+UWC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=698AF7&center=true&vCenter=true&width=650&lines=HPC+Engineer+@+SANBI;Research+Assistant+@+SI-NRF+CoE;CIRG+Researcher;Co-Lead+Mentor+@+UWC_HPC;Julia+Developer+|+DRL+Researcher;CS+Honours+Student+@+UWC)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-cheney-b2b496204/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4323819@myuwc.ac.za)
@@ -22,13 +22,21 @@
 
 ## 🙋‍♂️ Personal Introduction
 
-Hello! I'm **Justin Cheney**, a Computer Science Honours student at the University of the Western Cape, Cape Town, South Africa, currently working as an **HPC/Network Engineer Intern** at the **South African National Bioinformatics Institute (SANBI)**. My career goal is to advance the field of **High-Performance Computing (HPC)** by developing intelligent systems that optimize resource allocation and job scheduling through **Reinforcement Learning** and **Julia programming**.
+Hello! I'm **Justin Cheney**, a Computer Science Honours student at the University of the Western Cape, Cape Town, South Africa. I'm actively engaged in multiple research and infrastructure roles spanning bioinformatics workflows, high-performance computing infrastructure, and nature-inspired AI research. My career goal is to advance **High-Performance Computing (HPC)** and **computational biology** by developing intelligent systems that optimize resource allocation, enable reproducible workflows, and democratize access to computational infrastructure across African institutions.
 
-I'm particularly interested in pushing the boundaries of computational performance and intelligent systems. My work focuses on the intersection of:
+Currently, I'm working on:
+- **Bioinformatics Workflows & SOP Development** at SANBI as part of the PHA4GE consortium, designing standardized bioinformatic workflows for epidemiologists
+- **HPC Infrastructure & GPU Configuration** as a Research Assistant for the SI-NRF Centre of Excellence in Food Security
+- **Nature-Inspired AI Research** with the Computational Intelligence Research Group (CIRG) across agri-food systems, smart healthcare, and resource optimization
+- **HPC Education & Documentation** as Co-Lead Mentor at UWC for the CSIR CHPC Student Cluster Competition
 
-- **🖥️ High-Performance Computing (HPC)**: Optimizing algorithms and leveraging parallel computing to solve complex computational problems at scale
-- **💎 Julia Programming**: Harnessing the power of Julia for scientific computing, combining the ease of Python with the speed of C
-- **🤖 Deep Reinforcement Learning**: Developing intelligent agents that learn through interaction, with applications in optimization and HPC job scheduling
+My work focuses on the intersection of:
+
+- **🖥️ High-Performance Computing (HPC)**: Optimizing cluster infrastructure, GPU configuration, and parallel computing for scientific research at scale
+- **🧬 Bioinformatics & Workflows**: Designing reproducible, standardized computational workflows for epidemiological research and pathogen analysis
+- **🤖 Nature-Inspired AI & Deep Reinforcement Learning**: Developing intelligent systems for resource optimization, job scheduling, and problem-solving across diverse domains
+- **💎 Julia Programming**: Harnessing Julia's power for scientific computing and performance-critical applications
+- **📚 HPC Education**: Creating accessible documentation and mentorship pathways for the next generation of HPC practitioners
 
 <div align="center">
 
@@ -40,13 +48,19 @@ I'm particularly interested in pushing the boundaries of computational performan
 
 <div align="left">
 
-### **HPC/Network Engineer Intern**
+### **HPC/Infrastructure Engineer Intern**
 **South African National Bioinformatics Institute (SANBI)** | *Cape Town, South Africa*  
 📅 *Present*
 
-Working in the HPC department, contributing to the maintenance, optimization, and operation of high-performance computing infrastructure supporting bioinformatics research across South Africa.
+Working across multiple strategic initiatives in the HPC and bioinformatics departments:
 
-**Key Responsibilities & Achievements:**
+**HTC Workflows & SOP Development (PHA4GE Project):**
+- 🧬 Designing standardized bioinformatic workflows and Standard Operating Procedures (SOPs) for pathogen genomics
+- 🌍 Developing workflows intended for implementation across epidemiology labs and institutions in Africa
+- 📋 Creating reproducible, containerized workflows for high-throughput computational analysis
+- 🤝 Collaborating with PHA4GE consortium partners to ensure interoperability and accessibility
+
+**HPC Infrastructure Management:**
 - 🖥️ Managing and maintaining HPC cluster infrastructure for computational biology research
 - 🌐 Network administration and optimization for high-throughput data transfer
 - 📊 Performance monitoring and system optimization using tools like Prometheus and Grafana
@@ -54,7 +68,70 @@ Working in the HPC department, contributing to the maintenance, optimization, an
 - 🛠️ Troubleshooting and resolving technical issues in a production HPC environment
 - 📈 Contributing to infrastructure upgrades and capacity planning
 
-**Technologies Used:** Slurm, Linux (Ubuntu), Networking protocols, Monitoring tools, HPC optimization techniques
+**Technologies Used:** Slurm, Linux (Ubuntu), Singularity/Docker, Nextflow, CWL, Networking protocols, Monitoring tools, HPC optimization techniques
+
+</div>
+
+<div align="left">
+
+### **Research Assistant (Infrastructure & Innovation)**
+**SI-NRF Centre of Excellence in Food Security** | *South Africa*  
+📅 *Present*
+
+Supporting cutting-edge research in food security through high-performance computing infrastructure.
+
+**Key Responsibilities & Achievements:**
+- 🖥️ HPC cluster configuration and management for food security research initiatives
+- 🎮 GPU acquisition, installation, and optimization for accelerated computing workloads
+- 🔧 System administration and environment optimization for diverse researcher needs
+- 📚 Creating user-friendly documentation and training materials for HPC cluster access
+- 🌐 Designing accessible computational environments for researchers with varying technical backgrounds
+- 🚀 Performance tuning and resource allocation optimization
+- 🔬 Supporting researchers in utilizing advanced computing resources for their work
+
+**Technologies Used:** Linux systems administration, GPU computing (CUDA), HPC cluster management, Documentation tools
+
+</div>
+
+<div align="left">
+
+### **Research Collaborator**
+**Computational Intelligence Research Group (CIRG)** | *South Africa*  
+📅 *Present*
+
+Conducting research on nature-inspired AI techniques and their applications across multiple domains.
+
+**Research Areas:**
+- 🌾 **Agri-Food Systems**: Optimizing agricultural processes through intelligent algorithms
+- 🏥 **Smart Healthcare**: Developing AI solutions for healthcare optimization and resource management
+- 🔭 **Astronomy**: Applying nature-inspired techniques to astronomical data analysis
+- 💧 **Water Management**: Intelligent systems for water resource optimization
+- ⚡ **Energy Systems**: Nature-inspired approaches to energy management and optimization
+
+**Technologies Used:** Nature-inspired algorithms, Machine Learning, Python, Data analysis tools
+
+</div>
+
+<div align="left">
+
+### **Co-Lead Mentor (Volunteer)**
+**CSIR CHPC Student Cluster Competition - University of the Western Cape** | *Cape Town, South Africa*  
+📅 *2025 - Present* (Continuing from 2024)
+
+Volunteering as Co-Lead Mentor to develop the next generation of HPC practitioners at UWC, with a focus on training mentors and equipping competition participants.
+
+**Key Responsibilities & Achievements:**
+- 👥 Leading UWC team through the CSIR CHPC Student Cluster Competition pipeline
+- 🎓 Training and developing the next generation of mentors - equipping them with HPC knowledge and mentorship skills
+- 📚 Teaching participants from Linux fundamentals through to advanced benchmarking and performance optimization
+- 💻 Curriculum development: Linux basics → cluster architecture → optimization → benchmarking → performance analysis
+- 📖 Creating accessible educational resources and documentation for skill progression
+- 📝 Planning and executing a publication on HPC Education (2025/2026) to share best practices
+- 🏆 Guiding teams to national competition success while building a sustainable mentorship pipeline
+
+**Impact:** Trained 2025 team member selected for the National Team; establishing long-term HPC education culture at UWC
+
+**Technologies Used:** Linux, HPC Architecture, Benchmarking tools, Technical writing, Mentorship frameworks
 
 </div>
 
@@ -245,11 +322,13 @@ Working in the HPC department, contributing to the maintenance, optimization, an
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JCheney20&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCheney20&theme=radical&hide_border=true)
 
 </div>
 
 ---
+
+## 💭 Random Dev Quote
 
 <div align="center">
 
