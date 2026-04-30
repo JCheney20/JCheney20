@@ -101,13 +101,6 @@ Supporting cutting-edge research in food security through high-performance compu
 
 Conducting research on nature-inspired AI techniques and their applications across multiple domains.
 
-**Research Areas:**
-- 🌾 **Agri-Food Systems**: Optimizing agricultural processes through intelligent algorithms
-- 🏥 **Smart Healthcare**: Developing AI solutions for healthcare optimization and resource management
-- 🔭 **Astronomy**: Applying nature-inspired techniques to astronomical data analysis
-- 💧 **Water Management**: Intelligent systems for water resource optimization
-- ⚡ **Energy Systems**: Nature-inspired approaches to energy management and optimization
-
 **Technologies Used:** Nature-inspired algorithms, Machine Learning, Python, Data analysis tools
 
 </div>
@@ -244,21 +237,21 @@ Volunteering as Co-Lead Mentor to develop the next generation of HPC practitione
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🦁 ZooInsight</h3>
+      <h3 align="center">📊 DRL Job Scheduling</h3>
       <div align="center">
         <!-- <img src="PROJECT_DEMO_GIF_URL" width="400" alt="Zoo Database Demo"/> -->
         <p>
-          <a href="https://github.com/JCheney20/ZooInsight" target="_blank">
+          <a href="https://github.com/JCheney20/DRL_HPC_Scheduling" target="_blank">
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
           </a>
-          <a href="https://github.com/JCheney20/ZooInsight" target="_blank">
-            <img src="https://img.shields.io/github/stars/JCheney20/ZooInsight?style=for-the-badge"/>
+          <a href="https://github.com/JCheney20/DRL_HPC_Scheduling" target="_blank">
+            <img src="https://img.shields.io/github/stars/JCheney20/DRL_HPC_Schedling?style=for-the-badge"/>
           </a>
         </p>
-        <p><strong>Technologies:</strong> Java, MySQL</p>
-        <p><strong>Description:</strong> A comprehensive database management system for zoo operations, including animal tracking, feeding schedules, and visitor management.</p>
-        <p><strong>Role:</strong> Database Designer & Developer</p>
-        <p><strong>Outcome:</strong> Efficient relational database system with GUI</p>
+        <p><strong>Technologies:</strong> Python, Gymnasium, PyTorch, stable-baseline3, SnakeMake</p>
+        <p><strong>Description:</strong> A framework and statistcal analysis of three major DRL algorthim families to see which performs Pareto optimally within the HPC Job Scheduling environment</p>
+        <p><strong>Role:</strong> Researcher</p>
+        <p><strong>Outcome:</strong> Imperative Statistical Analysis of DRL algorithms in the Job Scheduling Environment</p>
       </div>
     </td>
   </tr>
