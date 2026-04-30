@@ -119,7 +119,7 @@ Volunteering as Co-Lead Mentor to develop the next generation of HPC practitione
 - 📚 Teaching participants from Linux fundamentals through to advanced benchmarking and performance optimization
 - 💻 Curriculum development: Linux basics → cluster architecture → optimization → benchmarking → performance analysis
 - 📖 Creating accessible educational resources and documentation for skill progression
-- 📝 Planning and executing a publication on HPC Education (2025/2026) to share best practices
+- 📝 Planning and executing a publication on HPC Education (2026/2027) to share best practices
 - 🏆 Guiding teams to national competition success while building a sustainable mentorship pipeline
 
 **Impact:** Trained 2025 team member selected for the National Team; establishing long-term HPC education culture at UWC
