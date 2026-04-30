@@ -163,7 +163,6 @@ Volunteering as Co-Lead Mentor to develop the next generation of HPC practitione
 #### Frameworks & Libraries
 
 ![Flux.jl](https://img.shields.io/badge/Flux.jl-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge)
 ![MPI](https://img.shields.io/badge/MPI-0071C5?style=for-the-badge)
@@ -245,7 +244,7 @@ Volunteering as Co-Lead Mentor to develop the next generation of HPC practitione
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
           </a>
           <a href="https://github.com/JCheney20/DRL_HPC_Scheduling" target="_blank">
-            <img src="https://img.shields.io/github/stars/JCheney20/DRL_HPC_Schedling?style=for-the-badge"/>
+            <img src="https://img.shields.io/github/stars/JCheney20/DRL_HPC_Scheduling?style=for-the-badge"/>
           </a>
         </p>
         <p><strong>Technologies:</strong> Python, Gymnasium, PyTorch, stable-baseline3, SnakeMake</p>
